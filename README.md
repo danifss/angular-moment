@@ -12,7 +12,7 @@ Copyright (C) 2013, 2014, 2015, 2016, Uri Shaked <uri@urish.org>
 
 ---
 
-Installation
+Installation Steps
 ------------
 
 You can choose your preferred method of installation:
